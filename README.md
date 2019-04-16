@@ -2,4 +2,5 @@
 
 this is my first change using git and github
 
-This is 2nd change
+this is from branch 2
+This is from Branch 1
